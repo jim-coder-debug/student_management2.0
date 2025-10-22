@@ -198,3 +198,4 @@ def student_view_result(request):
 
 
 
+
